@@ -1,6 +1,6 @@
 const HDWallet =  require('truffle-hdwallet-provider');
 const infuraKey= "2024f842a36841629164ceefd3288dee";
-const mnemonic = "leaf useful desert action head wagon enemy turtle guilt denial industry master";
+const mnemonic = "Enter Your mesomanic here";
 
 module.exports = {
   networks: {
