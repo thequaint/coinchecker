@@ -1,4 +1,4 @@
-Contract deployed in rinkebey test network of Ethereum .ise https://www.myetherwallet.com/wallet/access to interact with main coincollector contract
+Contract deployed in rinkebey test network of Ethereum .use https://www.myetherwallet.com/wallet/access to interact with main coincollector contract 
 
 
 
